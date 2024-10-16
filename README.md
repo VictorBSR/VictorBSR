@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorBSR
-- 👀 I’m interested in data science, automation and AI projects in general. As for hobbies, I'm into boardgames, gaming, movies, shows, cooking and VGM
+- 👀 I’m interested in AI, automation and data science projects in general. As for hobbies, I'm into boardgames, gaming, movies, shows, cooking and VGM
 - 🌱 I’m currently learning about GenAI and hard skills through diverse projects
 - 💞️ I’m looking to collaborate on relevant and impactful AI projects and machine learning projects
 - 👨🏻‍💻 Please do check my Portifolio through this link: https://victorbsr.github.io/portfolio_projetos/
